@@ -1,0 +1,80 @@
+Read Thread 3: is created!
+Write Thread 9: is created!
+Write Thread 9: Enter critical section
+Read Thread 5: is created!
+Write Thread 12: is created!
+Read Thread 6: is created!
+Write Thread 14: is created!
+Write Thread 13: is created!
+Write Thread 20: is created!
+Write Thread 18: is created!
+Write Thread 16: is created!
+Read Thread 17: is created!
+Read Thread 15: is created!
+Read Thread 11: is created!
+Read Thread 10: is created!
+Write Thread 19: is created!
+Write Thread 2: is created!
+Read Thread 1: is created!
+Write Thread 4: is created!
+Read Thread 8: is created!
+Write Thread 7: is created!
+Write Thread 9: writing my id: 9
+Write Thread 9: Leave critical section
+Read Thread 3: Enter critical section
+Read Thread 5: Enter critical section
+Read Thread 6: Enter critical section
+Read Thread 17: Enter critical section
+Read Thread 15: Enter critical section
+Read Thread 11: Enter critical section
+Read Thread 10: Enter critical section
+Read Thread 1: Enter critical section
+Read Thread 8: Enter critical section
+Read Thread 6: read shared data: 9
+Read Thread 6: Leave critical section
+Read Thread 15: read shared data: 9
+Read Thread 15: Leave critical section
+Read Thread 10: read shared data: 9
+Read Thread 10: Leave critical section
+Read Thread 5: read shared data: 9
+Read Thread 5: Leave critical section
+Read Thread 8: read shared data: 9
+Read Thread 8: Leave critical section
+Read Thread 3: read shared data: 9
+Read Thread 3: Leave critical section
+Read Thread 1: read shared data: 9
+Read Thread 1: Leave critical section
+Read Thread 17: read shared data: 9
+Read Thread 17: Leave critical section
+Read Thread 11: read shared data: 9
+Read Thread 11: Leave critical section
+Write Thread 14: Enter critical section
+Write Thread 14: writing my id: 14
+Write Thread 14: Leave critical section
+Write Thread 12: Enter critical section
+Write Thread 12: writing my id: 12
+Write Thread 12: Leave critical section
+Write Thread 20: Enter critical section
+Write Thread 20: writing my id: 20
+Write Thread 20: Leave critical section
+Write Thread 13: Enter critical section
+Write Thread 13: writing my id: 13
+Write Thread 13: Leave critical section
+Write Thread 18: Enter critical section
+Write Thread 18: writing my id: 18
+Write Thread 18: Leave critical section
+Write Thread 16: Enter critical section
+Write Thread 16: writing my id: 16
+Write Thread 16: Leave critical section
+Write Thread 19: Enter critical section
+Write Thread 19: writing my id: 19
+Write Thread 19: Leave critical section
+Write Thread 2: Enter critical section
+Write Thread 2: writing my id: 2
+Write Thread 2: Leave critical section
+Write Thread 4: Enter critical section
+Write Thread 4: writing my id: 4
+Write Thread 4: Leave critical section
+Write Thread 7: Enter critical section
+Write Thread 7: writing my id: 7
+Write Thread 7: Leave critical section
